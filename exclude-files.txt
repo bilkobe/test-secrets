@@ -1,0 +1,7 @@
+(.*/)?package-lock.json$
+(.*/)?yarn.lock$
+(.*/)?package.json$
+(.*/)?Gemfile.lock$
+(.*/)?ios/Podfile.lock$
+(.*)sealed-secrets
+(.*)README.md$
